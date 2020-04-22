@@ -1,0 +1,14 @@
+{
+  "name": "http_and_https",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "0trebor0",
+  "license": "ISC"
+}
